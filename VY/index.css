@@ -1,0 +1,16 @@
+.random {
+    display: flex;
+}
+
+
+/* BÀI 2 */
+
+.color-box {
+    background-color: rgb(107, 2, 107);
+    height: 300px;
+    width: 600px;
+}
+
+.color-box:hover {
+    background-color: rgb(182, 4, 43);
+}
